@@ -17,12 +17,17 @@
 # *I am willing to collaborate as a team player building better code.*
 
 
-### I know more about- </br>
-
 ### Some of the technologies I have worked with-</br>
 [![VueJS](https://www.linkpicture.com/q/file_type_vue_icon_130078.png)](https://www.linkpicture.com/view.php?img=LPic63efb22c3b4b31408300260)
 [![NuxtJS](https://www.linkpicture.com/q/file_type_nuxt_icon_130293-2.png)](https://www.linkpicture.com/view.php?img=LPic63efb13dd93d01178202359)
+[![JS](https://www.linkpicture.com/q/file_type_light_js_icon_130458.png)](https://www.linkpicture.com/view.php?img=LPic63efb2e392e21709386342)
 [![Sass](https://www.linkpicture.com/q/file_type_sass_icon_130182.png)](https://www.linkpicture.com/view.php?img=LPic63efb2783f67e638512711)
+[![bootstrap](https://www.linkpicture.com/q/bootstrap_plain_logo_icon_146619.png)](https://www.linkpicture.com/view.php?img=LPic63efb445718451511110434)
+[![Css](https://www.linkpicture.com/q/file_type_css_icon_130661.png)](https://www.linkpicture.com/view.php?img=LPic63efb51931b36149640949)
+[![HTML](https://www.linkpicture.com/q/file_type_html_icon_130541.png)](https://www.linkpicture.com/view.php?img=LPic63efb4e0d929d1195913754)
+
+
+### I know about- </br>
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=R%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
