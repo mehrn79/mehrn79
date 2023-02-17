@@ -23,7 +23,7 @@
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VueJs](https://www.linkpicture.com/q/vuejs_logo_icon_169247.png)
-[![NuxtJs](https://www.linkpicture.com/q/file_type_nuxt_icon_130293-1.png)](https://www.linkpicture.com/view.php?img=LPic63efb0d8283801841105111)
+[![NuxtJS](https://www.linkpicture.com/q/file_type_nuxt_icon_130293-2.png)](https://www.linkpicture.com/view.php?img=LPic63efb13dd93d01178202359)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=R%2B%2B&logoColor=00599C)
