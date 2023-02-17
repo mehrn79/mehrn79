@@ -17,7 +17,7 @@
 # *I am willing to collaborate as a team player building better code.*
 
 
-### Some of the technologies I have worked with-</br>
+### Some of the technologies I have worked with:</br>
 [![VueJS](https://www.linkpicture.com/q/file_type_vue_icon_130078.png)](https://www.linkpicture.com/view.php?img=LPic63efb22c3b4b31408300260)
 [![NuxtJS](https://www.linkpicture.com/q/file_type_nuxt_icon_130293-2.png)](https://www.linkpicture.com/view.php?img=LPic63efb13dd93d01178202359)
 [![JS](https://www.linkpicture.com/q/file_type_light_js_icon_130458.png)](https://www.linkpicture.com/view.php?img=LPic63efb2e392e21709386342)
@@ -27,15 +27,13 @@
 [![HTML](https://www.linkpicture.com/q/file_type_html_icon_130541.png)](https://www.linkpicture.com/view.php?img=LPic63efb4e0d929d1195913754)
 
 
-### I know about- </br>
+### I know about: </br>
 
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=R%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+[![python](https://www.linkpicture.com/q/python_18894.png)](https://www.linkpicture.com/view.php?img=LPic63efb5a4a7f251256824409)
+[![java](https://www.linkpicture.com/q/java_original_logo_icon_146458.png)](https://www.linkpicture.com/view.php?img=LPic63efb600705a01838303298)
+[![C++](https://www.linkpicture.com/q/c_icon_132529.png)](https://www.linkpicture.com/view.php?img=LPic63efb6e237236782441100)
+[![sql](https://www.linkpicture.com/q/sql-file-black-rounded-rectangular-interface-symbol_icon-icons.com_57633.png)](https://www.linkpicture.com/view.php?img=LPic63efb76c623dd962920752)
+[![mongodb](https://www.linkpicture.com/q/mongodb_plain_wordmark_logo_icon_146423.png)](https://www.linkpicture.com/view.php?img=LPic63efbabfe81ba1980047211)
 
 
 </br></br></br></br>
