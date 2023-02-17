@@ -45,7 +45,6 @@
   <p align="center">   
     <a href="https://www.linkedin.com/in/anitish/](https://www.linkedin.com/in/mehran-aduvand-9655b2265/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
   <a href="https://www.instagram.com/mehran_advand" alt="instagram"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
-  
     <a href="mehran.advand500@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
     
   </p>
