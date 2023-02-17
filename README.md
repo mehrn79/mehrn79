@@ -20,11 +20,9 @@
 ### I know more about- </br>
 
 ### Some of the technologies I have worked with-</br>
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![VueJs](https://www.linkpicture.com/q/vuejs_logo_icon_169247.png)
+[![VueJS](https://www.linkpicture.com/q/file_type_vue_icon_130078.png)](https://www.linkpicture.com/view.php?img=LPic63efb22c3b4b31408300260)
 [![NuxtJS](https://www.linkpicture.com/q/file_type_nuxt_icon_130293-2.png)](https://www.linkpicture.com/view.php?img=LPic63efb13dd93d01178202359)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+[![Sass](https://www.linkpicture.com/q/file_type_sass_icon_130182.png)](https://www.linkpicture.com/view.php?img=LPic63efb2783f67e638512711)
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=R%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
